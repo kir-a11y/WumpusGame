@@ -10,3 +10,5 @@ We can choose to play with AI or play with our friend. The game is always starte
 
 The AI side is implemented through minimax algorithm:
 It will predict 3 steps further of the game, and will choose the one with the most beneficial step for AI, and worst occation for player.Trees are implemented for the algorithm.
+
+Java version development: IntelliJ Idea
